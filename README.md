@@ -24,3 +24,5 @@ For Qcap
 
 With Qcap
 
+
+p.s. please note that this proposal is not about burning, it's about sovereignty of Quorum
