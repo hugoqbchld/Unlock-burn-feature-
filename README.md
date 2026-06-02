@@ -25,4 +25,4 @@ For Qcap
 With Qcap
 
 
-p.s. please note that this proposal won't start any burn, this proposal is not about burning, it's about sovereignty of Quorum
+p.s. please note that this proposal won't start any burn, this proposal is not about burning, it's about sovereignty of Qcap's Quorum
