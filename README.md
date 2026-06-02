@@ -1,5 +1,5 @@
-# Change-Timeline-
-Unlock burn feature (locked until 1st january 2029) 
+# Unlock-burn-feature
+(locked by design until 1st january 2029) 
 
 We inherit wolf's vision for Qvault 2.0
 
