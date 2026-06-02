@@ -11,7 +11,7 @@ as Qcap is fully decentralized with Qvault 2.0, no feature should be locked and 
 
 to unlock this feature will require to change only one line in the code, our dev Kav agreed to do it for Qcap for free
 
-n.b. unlock this feature won't start any burn, another allocation percentage proposal will have to be submit and win the vote of Quorum, the point is now it's locked at 0, so it's not possible to submit an allocation percentage porposal with a strict positif number
+n.b. unlock this feature won't start any burn, another allocation percentage proposal will have to be submit and win the vote of Quorum, the point is now it's locked at 0, so it's not possible to submit an allocation percentage porposal with a strict positif number for burn
 
 . vote yes to allow our dev to change the timeline
 
